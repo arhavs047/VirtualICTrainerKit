@@ -1,4 +1,4 @@
-# VirtualICTrainerKit
+# Virtual IC TrainerKit
 JavaFX-based Virtual IC Trainer for simulating digital logic circuits interactively.
 A simple JavaFX project that simulates basic digital logic ICs like AND, OR, NOT, NAND, NOR, XOR, and XNOR gates.  
 It helps users design and test digital circuits virtually, just like using a real hardware trainer kit.
