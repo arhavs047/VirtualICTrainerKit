@@ -1,5 +1,5 @@
 # 🧠 Virtual IC Trainer Kit  
-_A JavaFX-based Digital Logic Simulator_
+_A JavaFX-based simulator for designing and testing digital logic circuits virtually_
 
 ## 📖 Overview  
 The **Virtual IC Trainer Kit** is a desktop application that replicates the functionality of a physical digital electronics trainer kit.  
